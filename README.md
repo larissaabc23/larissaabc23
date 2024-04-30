@@ -1,16 +1,13 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 💙📚
 
-<!--
-**larissaabc23/larissaabc23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Larissa Carvalho
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou fazendo cursos e me desenvolvendo com o JavaScript
+- Estou organizando e compartilhando meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📬
+
+00001110796973sp@al.educacao.sp.gov.br
+
+![](https://media.tenor.com/X9DDaxO1_X0AAAAM/school-paper.gif)
